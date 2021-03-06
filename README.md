@@ -37,7 +37,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Auraiporn/Twitter_Client/blob/main/GIF-210305_221434.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Auraiporn/Twitter_Client/blob/main/walkthrough.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
